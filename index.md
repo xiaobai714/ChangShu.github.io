@@ -32,4 +32,7 @@ My research is in Natural Language Processing (NLP) — a sub-field of Artificia
 - **[2019]  Early Rumour Detection. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2019).**
 - **[2012]  An experiment in integrating sentiment features for tech stock prediction in twitter. The COLING 2012 Organizing Committee.**
 
-
+### To Appear
+- **Open Domain Response Generation Guided by Retrieved Conversations. (to appear)**
+- **ICAF: Iterative Contrastive Alignment Framework for Multimodal Abstractive Summarization. (to appear)**
+- **UCICL: Uni-modal and Cross-modal Iterative Contrastive Learning for Cross-modal Retrieval. (to appear)**
