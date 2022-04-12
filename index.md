@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+<div>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Chang Shu</h1>
+      <p><b>Ph.D</b></p>
+      <p><b>The University of Nottingham</b></p>
+      <p><b>Email：shuchang0011@sina.com</b></p>
+      <p><a href="/index-en.html">English Version</a></p>
+    </td>
+    <td width="25%">
+      <img src="/my.jpeg" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
 
-You can use the [editor on GitHub](https://github.com/xiaobai714/ChangShu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research is in Natural Language Processing (NLP) — a sub-field of Artificial Intelligence — and the goal of NLP is to develop computational models to understand human languages. There are a host of NLP applications that are commonly used in our everyday lives: Social Media Processing (e.g. Early Rumour Detection) and Natural Language Generation (e.g. Siri) are two examples. A common theme of my research is that it involves building computational models in an supervised or self-supervised setting. My research is generally guided by a diverse flavour of applications, e.g. Entity Relation Extraction, lexical semantics, text generation and misinformation detection. Also, multi-modal is my reseach insterests as well, which combined images and texts. (e.g. Cross-modal Retrivial, Multi-modal Summarization).
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Employment History
+1. National Institute of Informatics (Tokyo) 
 
-```markdown
-Syntax highlighted code block
+### Research Keywords
+- NLP
+- Multi-modal
 
-# Header 1
-## Header 2
-### Header 3
+### Publications
+- **项目1**  
+项目描述
+- **项目2**  
+项目描述
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaobai714/ChangShu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 公司/学校/研究所（2017.9~至今）
+- **项目1**  
+项目描述
+- **项目2**  
+项目描述
