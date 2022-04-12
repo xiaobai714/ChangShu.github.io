@@ -33,7 +33,7 @@ My research is in Natural Language Processing (NLP) — a sub-field of Artificia
 
 ### Research Keywords
 - NLP (Chatbot, Summarisation, Entity Relation Extration, Rumour Detection)
-- Multi-modal (Image-Text Retrieval, Multi-modal Summarisation)
+- Multi-modal (Image-Text Retrieval, Multi-modal Summarisation, Image Captioning)
 
 ### Publications
 - **[2020] How Furiously Can Colorless Green Ideas Sleep? Sentence Acceptability in Context. In Transactions of the Association for Computational Linguistics.**  
