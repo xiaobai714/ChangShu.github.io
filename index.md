@@ -6,7 +6,6 @@
       <p><b>Ph.D</b></p>
       <p><b>The University of Nottingham</b></p>
       <p><b>Email：shuchang0011@sina.com</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
       <img src="/my.jpeg" width="100%">
@@ -29,13 +28,8 @@ My research is in Natural Language Processing (NLP) — a sub-field of Artificia
 - Multi-modal
 
 ### Publications
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
+- **[2020] How Furiously Can Colorless Green Ideas Sleep? Sentence Acceptability in Context. In Transactions of the Association for Computational Linguistics.**  
+- **[2019]  Early Rumour Detection. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2019).**
+- **[2012]  An experiment in integrating sentiment features for tech stock prediction in twitter. The COLING 2012 Organizing Committee.**
 
-#### 公司/学校/研究所（2017.9~至今）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
+
